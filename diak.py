@@ -5,3 +5,5 @@ fajl.close()
 print(str(tartalom))
 
 
+sorok = tartalom.split("\n")
+print(len(sorok))
